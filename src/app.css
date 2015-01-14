@@ -11,6 +11,9 @@ body {
 	font-family: HelveticaTextbookCom-Roman, HelveticaTextbook-Roman, Helvetica, Arial, sans-serif;
 	height: 100%;
 	text-align: center;
+	margin: 0;
+	height: 100%;
+	overflow: hidden;
 }
 
 h1 {
@@ -43,5 +46,6 @@ hr {
 	border: none;
 	height: 1px;
 	background-color: black;
-	width: 100%;
+	width: 96%;
+	margin: 0 2%;
 }
