@@ -33,12 +33,11 @@ h1, h2 {
 	justify-content: center;
 	display: flex;
 	flex-direction: column;
+	height: 50vh;
+	margin: 0;
 }
 
-#flexWrapper {
-	display: flex;
-	flex-direction: column;
-	justify-self: center;
+#flexWrapper{
 	height: 100%;
 }
 
