@@ -1,2 +1,5 @@
-document.querySelector('h1').innerText = coverTitle;
-document.querySelector('h2').innerText = coverSubtitle;
+var h1 = document.querySelector('h1');
+var h2 = document.querySelector('h2');
+
+h1.innerHTML = coverTitle;
+h2.innerHTML = coverSubtitle;
